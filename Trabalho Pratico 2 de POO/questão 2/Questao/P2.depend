@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1510015157 source:c:\users\emers\desktop\engsis\2017_2\4 poo\tp2\p2\main.cpp
+	<iostream>
+	<string>
+	"Data.h"
+
+1510015040 source:c:\users\emers\desktop\engsis\2017_2\4 poo\tp2\p2\data.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<iomanip>
+	"Data.h"
+
+1510013935 c:\users\emers\desktop\engsis\2017_2\4 poo\tp2\p2\data.h
+	<iostream>
+	<string>
+	"DataInterface.h"
+
+1509714970 c:\users\emers\desktop\engsis\2017_2\4 poo\tp2\p2\datainterface.h
+	<sstream>
+	<string>
+
+1510089215 source:c:\users\emers\desktop\engsis\2017_2\4 poo\tp2\p2v2\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"Data.h"
+
+1510088872 c:\users\emers\desktop\engsis\2017_2\4 poo\tp2\p2v2\data.h
+	<iostream>
+	<string>
+	"DataInterface.h"
+
+1510075347 c:\users\emers\desktop\engsis\2017_2\4 poo\tp2\p2v2\datainterface.h
+	<sstream>
+	<string>
+
+1510088709 source:c:\users\emers\desktop\engsis\2017_2\4 poo\tp2\p2v2\data.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"Data.h"
+
